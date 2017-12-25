@@ -1,0 +1,11 @@
+{
+  "name": "slack-file-cleaner",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "dotenv": "^4.0.0",
+    "moment": "^2.20.1"
+  }
+}
